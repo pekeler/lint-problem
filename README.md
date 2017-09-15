@@ -7,6 +7,8 @@ npm install
 npm run lint
 ```
 
+and look at index.js
+
 ## workaround
 
 add this to .eslintrc.json
