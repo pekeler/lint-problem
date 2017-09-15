@@ -2,6 +2,10 @@
 
 to demonstrate https://github.com/prettier/eslint-config-prettier/issues/29
 
+```bash
+npm install
+npm run lint
+```
 
 ## workaround
 
